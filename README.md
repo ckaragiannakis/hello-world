@@ -1,2 +1,3 @@
 # hello-world
 This is the GitHub starting tutorial...
+I am trying to et into programming. Well, also my name is Charalampos buat you can call me Harry.
